@@ -1,7 +1,9 @@
 # Brachistochrone Curve Analysis
 This Jupyter notebook provides an analysis of a simplified Brachistochrone problem, a classic problem in calculus of variations.
 This notebook first calculates the time taken for a ball to reach position pi, then optimize pararameters a,b,c,d for the following equation\
-y(x) = -x + a*sin(x) + b *sin(2x) + c*sin(3x) + d*sin(4x)\
+<p align="center">
+// **y(x) = -x + a*sin(x) + b *sin(2x) + c*sin(3x) + d*sin(4x)\**
+</p>
 Such that the time it takes for a particle to slide down this curve is the shortest.
 
 The notebook begins with a brief introduction to the problem, and then moves on to explain the mathematics behind the problem. It provides a step-by-step guide on how to derive the equations that describe the motion of the particle along the curve and eventually forms the **ODE**.
