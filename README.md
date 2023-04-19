@@ -14,13 +14,20 @@ Next, to solve the ODE in the Brachistochrone problem, the notebook uses the **R
 <img width="333" alt="image" src="https://user-images.githubusercontent.com/85885666/232539778-15e48482-a7c0-40be-802f-e03c51c99d51.png">
 </p>
 
-**Getting Started**\
-To run the notebook, you will need to have Python 3 installed on your computer, as well as the following libraries:
+## Requirements
+To run the notebook, you will need to have Python 3 and the following libraries installed:
 
-numpy
-matplotlib\
-You can install these libraries using pip:
+<ol>
+  <li>numpy</li>
+  <li>matplotlib</li>
+</ol>
+You can install these packages by running the following command using pip:
+<code>pip install numpy matplotlib</code>
 
-pip install numpy matplotlib
+## Usage
+To use this notebook, you can either download it directly from the repository or clone the entire repository to your local machine. Once you have the notebook, you can open it using Jupyter Notebook or JupyterLab. 
 
-Once you have installed the necessary libraries, you can open the notebook in Jupyter and run the cells in order.
+To run the notebook, you can execute each cell in sequence. The notebook includes detailed explanations of each step and how it contributes to solving the simplified Brachistochrone curve problem.
+
+## License
+The code in this repository is licensed under the MIT License. See LICENSE for more information.
