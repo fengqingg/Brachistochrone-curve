@@ -30,4 +30,4 @@ To use this notebook, you can either download it directly from the repository or
 To run the notebook, you can execute each cell in sequence. The notebook includes detailed explanations of each step and how it contributes to solving the simplified Brachistochrone curve problem.
 
 ## License
-The code in this repository is licensed under the MIT License. See LICENSE for more information.
+The code in this repository is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for more information.
