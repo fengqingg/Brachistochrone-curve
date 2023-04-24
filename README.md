@@ -11,7 +11,7 @@ The notebook begins with a brief introduction to the problem, and then moves on 
 Next, to solve the ODE in the Brachistochrone problem, the notebook uses the **RK4 method** to numerically approximate the solution. It also calculates the time it takes for the particle to slide down the curve for different starting heights. The notebook then goes on to optimize the function with the **Nelder-Mead algorithm** and eventually plot the resulting brachistochrone curve.
 
 <p align="center">
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/85885666/232539778-15e48482-a7c0-40be-802f-e03c51c99d51.png">
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/85885666/233914499-693a7efe-53ed-40b3-a3c4-cb01a3bca0e3.png">
 </p>
 
 ## Requirements
